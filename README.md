@@ -1,7 +1,7 @@
 # MyiPod
 
 A small front end application using the iTunes API which allows user to search for artists and get a list of the albums associated with that artist, listen to tracks and collect favorites.
-Live preview is available on [mohsenbaqi.ir/MyiPod](http://localhost:3000)
+Live preview is available on [mohsenbaqi.ir/MyiPod](http://mohsenbaqi.ir/MyiPod/)
 
 ![MyiPod](http://mohsenbaqi.ir/MyiPod/MyiPod.png)
 
